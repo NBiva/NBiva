@@ -9,13 +9,11 @@
 <hr>
 
 <h3 align="left"><u>🏆 My Achievements</u></h3>
-<hr style="height:1px; border:none; background-color:#ccc;">
 <ul>
   <li>Champion in the Database Management Systems category of the UIU CSE Project Showcase.</li>
   <li>Champion in the Database Management Systems (Poster) category of the UIU CSE Project Showcase.</li>
   <li>5th Runner-Up in the Advanced Object-Oriented Programming category of the UIU CSE Project Showcase.</li>
 </ul>
-
 
 <h3 align="left"><u>🔗 Connect with me</u></h3>
 <p align="left">
@@ -31,7 +29,6 @@
 </p>
 
 <h3 align="left"><u>🛠️ My Skills</u></h3>
-<hr>
 
 <h4 align="left">👨‍💻 Programming Languages</h4>
 <p align="left">
