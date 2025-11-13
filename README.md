@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nusrat Alam Biva</h1>
 <h3 align="center">"From student to system architect" my learning log</h3>
+ ** I'm Nusrat Alam Biva—currently exploring the world of Computer Science with curiosity and care. I love designing clean schemas, solving logic puzzles, and turning technical ideas into real-world impact. My GitHub is a reflection of my learning journey—from foundational concepts to architectural thinking. 📚 Studying CSE 🧠 Strong in database design & normalization 🌱 Passionate about learning, building, and evolving 🤝 Open to collaboration on meaningful projects**
+
 
 - 🌱 I’m currently learning **CSE**
-
-- 💬 Ask me about **🎓 CSE student | 🗄️ Database enthusiast | 🛠️ Learning to build systems that empower Hi, I'm Nusrat Alam Biva—currently exploring the world of Computer Science with curiosity and care. I love designing clean schemas, solving logic puzzles, and turning technical ideas into real-world impact. My GitHub is a reflection of my learning journey—from foundational concepts to architectural thinking. 📚 Studying CSE 🧠 Strong in database design & normalization 🌱 Passionate about learning, building, and evolving 🤝 Open to collaboration on meaningful projects**
-
 - 📫 How to reach me **biva.nusrat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
