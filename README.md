@@ -26,10 +26,10 @@
   <a href="https://linkedin.com/in/nusratbiva" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://fb.com/nusratbiva" target="blank">
+  <a href="https://www.facebook.com/nusrat.biva.262696" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/nusaratbiva_07" target="blank">
+  <a href="https://www.instagram.com/nusratbiva_07?igsh=YWJ6bnZjaTQ0eXJx" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
   </a>
 </p>
