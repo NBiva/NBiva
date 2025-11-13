@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nusrat Alam Biva</h1>
 <h3 align="center">"From student to system architect" — my learning log</h3>
 
-- 🌱 I’m currently learning **C++,Arduino**
-
-- 📫 How to reach me **biva.nusrat@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <p align="center">
   <strong>I am currently pursuing a B.Sc. in Computer Science at United International University.</strong><br>
@@ -15,6 +8,9 @@
 </p>
 
 <hr>
+- 🌱 I’m currently learning **C++,Arduino**
+
+- 📫 How to reach me **biva.nusrat@gmail.com**
 
 <h2 align="left"><u>🏆 My Achievements</u></h2>
 <ul>
