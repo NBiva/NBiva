@@ -8,7 +8,8 @@
 </p>
 
 <hr>
-- 🌱 I’m currently learning C++,Arduino Programming
+- 🌱 I’m currently learning C++, Arduino Programming
+
 - 📫 How to reach me **biva.nusrat@gmail.com**
 
 <h2 align="left"><u>🏆 My Achievements</u></h2>
