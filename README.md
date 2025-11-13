@@ -2,9 +2,17 @@
 <h3 align="center">"From student to system architect" my learning log</h3>
 I am currently pursuing a B.Sc. in CSE at United International University, exploring the world of Computer Science with curiosity and care. I enjoy designing clean schemas, solving logic puzzles, and turning technical ideas into real-world impact. I love taking on new challenges and never give up on trying.
 
-
 - 🌱 I’m currently learning **CSE**
 - 📫 How to reach me **biva.nusrat@gmail.com**
+
+<h3 align="left">🏆 My Achievements</h3>
+
+<ul>
+  <li>Scholarship Award for Academic Excellence in three trimesters</li>
+  <li>Champion in the Database Management Systems category of the UIU CSE Project Showcase</li>
+  <li>Champion in the Database Management Systems (Poster)category of the UIU CSE Project Showcase</li>
+  <li>5th Runner-Up in the Advanced Object-Oriented Programming category of the UIU CSE Project Showcase.</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
