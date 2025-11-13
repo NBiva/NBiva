@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>I am currently pursuing a B.Sc. in Computer Science at United International University.</strong><br>
-  <strong>Exploring the world of Computer Science with curiosity and care. I enjoy designing clean schemas, solving logic puzzles, and turning technical ideas into real-world impact. I love taking on new challenges and never give up on trying. New Learner I know SQL, C, JAVA </strong>
+  <strong>Exploring the world of Computer Science with curiosity and care. I enjoy designing clean schemas, solving logic puzzles, and turning technical ideas into real-world impact. I love taking on new challenges and never give up on trying.</strong>
 </p>
 
 <hr>
