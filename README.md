@@ -8,9 +8,8 @@ I am currently pursuing a B.Sc. in CSE at United International University, explo
 <h3 align="left">🏆 My Achievements</h3>
 
 <ul>
-  <li>Scholarship Award for Academic Excellence in three trimesters</li>
-  <li>Champion in the Database Management Systems category of the UIU CSE Project Showcase</li>
-  <li>Champion in the Database Management Systems (Poster)category of the UIU CSE Project Showcase</li>
+  <li>Champion in the Database Management Systems category of the UIU CSE Project Showcase.</li>
+  <li>Champion in the Database Management Systems (Poster)category of the UIU CSE Project Showcase.</li>
   <li>5th Runner-Up in the Advanced Object-Oriented Programming category of the UIU CSE Project Showcase.</li>
 </ul>
 
@@ -33,18 +32,17 @@ I am currently pursuing a B.Sc. in CSE at United International University, explo
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">🌐 Development</h4>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"></a>
-</p>
-
 <h4 align="left">🗄️ Databases & Cloud Hosting</h4>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/></a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/></a>
+</p>
+<h4 align="left">🌐 Development</h4>
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"></a>
 </p>
 
 <h4 align="left">🎨 Designing</h4>
