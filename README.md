@@ -9,7 +9,7 @@
 <hr>
 
 <h3 align="left"><u>🏆 My Achievements</u></h3>
-<hr>
+<hr style="height:1px; border:none; background-color:#ccc;">
 <ul>
   <li>Champion in the Database Management Systems category of the UIU CSE Project Showcase.</li>
   <li>Champion in the Database Management Systems (Poster) category of the UIU CSE Project Showcase.</li>
