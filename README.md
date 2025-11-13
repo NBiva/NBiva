@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nusrat Alam Biva</h1>
 <h3 align="center">"From student to system architect" my learning log</h3>
 <p align="center">
-  <strong>I am currently pursuing a B.Sc. in Computer Science at United International University.</strong><br><br>
+  <strong>I am currently pursuing a B.Sc. in Computer Science at United International University.</strong><br>
   <strong>Exploring the world of Computer Science with curiosity and care. I enjoy designing clean schemas, solving logic puzzles, and turning technical ideas into real-world impact. I love taking on new challenges and never give up on trying.</strong><br><br>
   ✅ I'm currently learning <strong>CSE</strong><br>
   📧 Reach me: <strong>biva.nusrat@gmail.com</strong><br><br>
