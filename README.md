@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nusrat Alam Biva</h1>
-<h3 align="center">"From student to system architect" — my learning log</h3>
+<h3 align="center">"From student to system architect" — my learning journey</h3>
 
 
 <p align="center">
