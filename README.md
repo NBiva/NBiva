@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning C++, Arduino Programming
 
+- 💬 Ask me about Database SQL, Java, C
+
 - 📫 To reach me **biva.nusrat@gmail.com**
 
 <h2 align="left"><u>🏆 My Achievements</u></h2>
