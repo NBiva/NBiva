@@ -15,7 +15,7 @@
   <li>5th Runner-Up in the Advanced Object-Oriented Programming category of the UIU CSE Project Showcase.</li>
 </ul>
 
-<h3 align="left"><u>🔗 Connect with me</u></h3>
+<h2 align="left"><u>🔗 Connect with me</u></h2>
 <p align="left">
   <a href="https://linkedin.com/in/nusratbiva" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
@@ -28,7 +28,7 @@
   </a>
 </p>
 
-<h3 align="left"><u>🛠️ My Skills</u></h3>
+<h2 align="left"><u>🛠️ My Skills</u></h2>
 
 <h4 align="left">👨‍💻 Programming Languages</h4>
 <p align="left">
