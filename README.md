@@ -9,15 +9,15 @@
 
 <hr>
 
-- 🌱 I’m currently learning C++, Arduino Programming
+- 🌱 I’m currently learning Python, Cuda, Figma
 
 - 📫 To reach me **biva.nusrat@gmail.com**
 
 <h2 align="left"><u>🎓 My Achievements</u></h2>
 <ul>
-  <li>Champion in the Database Management Systems category of the UIU CSE Project Showcase.🏆</li>
-  <li>Champion in the Database Management Systems (Poster) category of the UIU CSE Project Showcase.🖼️</li>
-  <li>5th Runner-Up in the Advanced Object-Oriented Programming category of the UIU CSE Project Showcase.💻</li>
+  <li>Champion in the Database Management Systems category of the UIU CSE Project Showcase (Spring 252).🏆</li>
+  <li>Champion in the Database Management Systems (Poster) category of the UIU CSE Project Showcase (Spring 252).🖼️</li>
+  <li>5th Runner-Up in the Advanced Object-Oriented Programming category of the UIU CSE Project Showcase (Summer 251).💻</li>
   <li>Scholarship award for academic excellence in four trimesters.🏅</li>
 </ul>
 
