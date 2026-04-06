@@ -15,9 +15,9 @@
 
 <h2 align="left"><u>🎓 My Achievements</u></h2>
 <ul>
-  <li>Champion in the Database Management Systems category of the UIU CSE Project Showcase (Spring 252).🏆</li>
-  <li>Champion in the Database Management Systems (Poster) category of the UIU CSE Project Showcase (Spring 252).🖼️</li>
-  <li>5th Runner-Up in the Advanced Object-Oriented Programming category of the UIU CSE Project Showcase (Summer 251).💻</li>
+  <li>Champion in the Database Management Systems category of the UIU CSE Project Showcase (Summer 252).🏆</li>
+  <li>Champion in the Database Management Systems (Poster) category of the UIU CSE Project Showcase (Summer 252).🖼️</li>
+  <li>5th Runner-Up in the Advanced Object-Oriented Programming category of the UIU CSE Project Showcase (Spring 251).💻</li>
     
   <li>3rd Runner-Up in the Electronics Laboratory category of the UIU CSE Project Showcase (Fall 253).🔌</li>
 
